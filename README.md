@@ -7,7 +7,6 @@ Dicee is a simple web-based game where two players roll dice, and the player wit
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
