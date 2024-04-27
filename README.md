@@ -25,8 +25,8 @@ To run the Dicee game locally, follow these steps:
   
 3.Open the index.html file in your preferred web browser.
 
-Usage
+Usage:
   Simply open the index.html file in your web browser to play the game. Clicking on the "Refresh Me" button will roll the dice for both players and display the results.
 
-Contributing
+Contributing: 
   Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
