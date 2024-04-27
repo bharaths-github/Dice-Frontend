@@ -22,6 +22,7 @@ To run the Dicee game locally, follow these steps:
    git clone https://github.com/yourusername/Dicee.git
 2.Navigate to the project directory:
   cd Dicee
+  
 3.Open the index.html file in your preferred web browser.
 
 Usage
